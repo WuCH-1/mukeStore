@@ -1,0 +1,153 @@
+#zt .ticket-form {
+    background: #fff;
+}
+
+#zt .err {
+    color: #ff0000;
+    text-align: center;
+    font-size: 0.5rem;
+}
+
+#zt .nav {
+    height: 1.5rem;
+}
+
+#zt .nav li {
+    height: 1.5rem;
+}
+
+#zt .nav a {
+    font-size: 0.55rem;
+    float: left;
+    width: 7.8rem;
+    font-size: 0.6rem;
+    text-align: center;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    border: 0.1rem solid #fff;
+}
+
+#zt .nav .on {
+    color: #fff;
+}
+
+#zt .ticket-form form input[type=text] {
+    width: 10rem;
+    height: 1.25rem;
+    float: right;
+    border-radius: 0.25rem;
+    font-size: 0.55rem;
+    line-height: 1.25rem;
+    border: solid #c3c3c3 1px;
+    text-indent: 0.2rem;
+}
+
+#zt .ticket-form .tf-label {
+    font-size: 0.55rem;
+    color: #333333;
+    width: 2.5rem;
+    height: 1.25rem;
+    line-height: 1.25rem;
+    text-align: right;
+    display: block;
+    float: left;
+}
+
+#zt .tf-item {
+    width: 13.1rem;
+    overflow: hidden;
+}
+
+#zt .g-u {
+    width: 10rem;
+    overflow: hidden;
+    float: right;
+}
+
+#zt .g-u label {
+    overflow: hidden;
+    float: left;
+    height: 1.25rem;
+    width: 3.3rem;
+    display: block;
+    line-height: 1.25rem;
+    text-align: right;
+    font-size: 0.55rem;
+    color: #333333;
+}
+
+#zt .tf-submit input[type=submit] {
+    height: 2rem;
+    width: 10rem;
+    border: none;
+    color: #fff;
+    line-height: 1.5rem;
+    display: block;
+    margin: 0.5rem auto;
+    font-size: 0.8rem;
+    background: #d50310;
+    border-radius: 1rem;
+    font-weight: 100;
+}
+
+#zt .hint {
+    display: none;
+}
+
+#zt .tf-item {
+    margin: 0 auto;
+}
+
+#zt .survey input,
+#zt .survey_child input {
+    width: 0.5rem;
+    height: 0.5rem;
+    float: left;
+    display: block;
+    border-radius: 0.25rem;
+    font-size: 0.55rem;
+    line-height: 1.25rem;
+    border: solid #c3c3c3 1px;
+    text-indent: 0.2rem;
+    margin-left: 0.9rem;
+    margin-top: 0.4rem;
+}
+
+#zt .survey .tf-data,
+#zt .survey_child .tf-data {
+    margin-right: 0.4rem;
+}
+
+#zt .channel_id select {
+    width: 10rem;
+    height: 1.25rem;
+    float: right;
+    border-radius: 0.25rem;
+    font-size: 0.55rem;
+    line-height: 1.25rem;
+    border: solid #c3c3c3 1px;
+    text-indent: 0.2rem;
+    display: block;
+    padding: 0;
+}
+
+#zt .search_panel h3,
+#zt .search_panel p {
+    font-size: 0.55rem;
+    text-align: center;
+    color: #333333;
+    margin: 0.3rem auto;
+}
+
+#zt .ticket-form form input[type=submit] {
+    height: 1.6rem;
+    width: 8.3rem;
+    margin-top: 0.2rem;
+    border-radius: 0.2rem;
+    background: #AA88d8;
+    font-weight: 700;
+    font-size: .6rem;
+    margin: 0.2rem auto;
+    text-align: center;
+    line-height: 1.3rem;
+}
